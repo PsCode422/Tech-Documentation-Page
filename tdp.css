@@ -48,7 +48,7 @@ code {
     font-size: 1.5em;
 }
 
-#nav-bar a {
+.nav-link {
     border: 1px solid black;
     color: #4d4e53;
     width: 208px;
@@ -76,7 +76,7 @@ code {
         width: 100%;
         margin: auto;
     }
-    #nav-bar a {
+    .nav-link {
         width: 400px;
         margin: auto;
         border-top: 2px solid #4d4e53;
